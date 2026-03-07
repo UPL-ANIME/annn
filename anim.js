@@ -1,12 +1,11 @@
 [
   {
-    "id": "anime_1",
-    "title": "Naruto Uzumaki",
-    "thumb": "https://rasm-linki.jpg",
-    "turkum": ["Jangari", "Animatsiya"],
+    "id": "anime1",
+    "title": "Naruto",
+    "thumb": "https://...",
+    "turkum": ["Jangari"],
     "qismlar": [
-      {"nom": "1-qism", "link": "YOUTUBE_ID_1"},
-      {"nom": "2-qism", "link": "YOUTUBE_ID_2"}
+      {"nom": "1-qism", "link": "abc123"}
     ]
   }
 ]
