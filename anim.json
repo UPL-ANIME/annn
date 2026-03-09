@@ -1,48 +1,6 @@
 [
   {
     "id": "a1",
-    "title": "Re zero",
-    "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNVXwhpV5fCVPKbzJWZloUXfDx36CLG5FrQ&s",
-    "turkum": [
-      "Romantika"
-    ],
-    "qismlar": [
-      {
-        "nom": "Re zero (1-qism)",
-        "link": "BAACAgUAAxkBAAMVaa1CmIgvlS1FAx_NwOSujtDv4asAAo4OAAJCbEhVM9HJEVU0-8I6BA"
-      },
-      {
-        "nom": "Re zero 2-qism",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=BAACAgUAAxkBAAMVaa1CmIgvlS1FAx_NwOSujtDv4asAAo4OAAJCbEhVM9HJEVU0-8I6BA"
-      },
-      {
-        "nom": "Re zero 3-qism",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=QkFBQ0FnVUFBeGtCQUFNVmFhMUNtSWd2bFMxRkF4X053T1N1anREdjRhc0FBbzRPQUFKQ2JFaFZNOUhKRVZVMC04STZCQQ=="
-      },
-      {
-        "nom": "Rezo 4-qism",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=QkFBQ0FnVUFBeGtCQUFNVmFhMUNtSWd2bFMxRkF4X053T1N1anREdjRhc0FBbzRPQUFKQ2JFaFZNOUhKRVZVMC04STZCQQ=="
-      },
-      {
-        "nom": "Re zero 5 -qism",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=bGVmcFpjX0JBQUNBZ1VBQXhrQkFBTVZhYTFDbUlndmxTMUZBeF9Od09TdWp0RHY0YXNBQW80T0FBSkNiRWhWTTlISkVWVTAtOEk2QkE="
-      },
-      {
-        "nom": "Re zero 6 -qism",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=YTZBUDVuX0JBQUNBZ1VBQXhrQkFBTVZhYTFDbUlndmxTMUZBeF9Od09TdWp0RHY0YXNBQW80T0FBSkNiRWhWTTlISkVWVTAtOEk2QkE="
-      },
-      {
-        "nom": "Re zero Qiynalib kedi",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=fHOyur"
-      },
-      {
-        "nom": "sqilgan subaru",
-        "link": "https://t.me/zzzzszzzzzzzzbot?start=pLYdql"
-      }
-    ]
-  },
-  {
-    "id": "a2",
     "title": "Qahramon guruhidagi qizga sevgi",
     "thumb": "https://i.ibb.co/3nkxR0g/image.jpg",
     "turkum": [
@@ -63,7 +21,7 @@
     ]
   },
   {
-    "id": "a3",
+    "id": "a2",
     "title": "Pastkash Qahramon",
     "thumb": "https://i.ibb.co/jZwJ8qY7/image.jpg",
     "turkum": [
