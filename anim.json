@@ -11,7 +11,7 @@
     "qismlar": [
       {
         "nom": "re zero zo'r",
-        "linkvideo":"https://v.mover.uz/0l8oQMen_m.mp4",
+        "linkvideo": "https://v.mover.uz/0l8oQMen_m.mp4",
         "link": "https://t.me/animeuzbektilida_afna_robot?start=O43M2R"
       }
     ],
@@ -472,6 +472,21 @@
       {
         "nom": "12-qism",
         "link": "https://t.me/animeuzbektilida_afna_robot?start=z4L0BF"
+      }
+    ]
+  },
+  {
+    "id": "a1778683788",
+    "title": "test",
+    "thumb": "test",
+    "turkum": [
+      "Hayotiy"
+    ],
+    "fullnews": "",
+    "qismlar": [
+      {
+        "nom": "1-qism",
+        "link": "https://t.me/animeuzbektilida_afna_robot?start=pdWSYT"
       }
     ]
   }
