@@ -9,13 +9,27 @@
       ],
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg",
       "votes": 1
+    },
+    "14713": {
+      "name": "Kamisama Hajimemashita",
+      "names": [
+        "Kamisama Hajimemashita",
+        "Kamisama Kiss",
+        "神様はじめました",
+        "Kami-sama Hajimemashita",
+        "Kami-sama Kiss",
+        "Soy Una Diosa ¿Y ahora qué?"
+      ],
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14713-RyZ7bA7CdvGw.jpg",
+      "votes": 1
     }
   },
   "users": {
     "5808853278": {
       "date": "2026-11-08",
       "ids": [
-        "199426"
+        "199426",
+        "14713"
       ]
     }
   }
