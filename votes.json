@@ -1,0 +1,22 @@
+{
+  "animes": {
+    "199426": {
+      "name": "Hotel Inhumans 2nd Season",
+      "names": [
+        "Hotel Inhumans 2nd Season",
+        "HOTEL INHUMANS Season 2",
+        "ホテル・インヒューマンズ 第2期"
+      ],
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg",
+      "votes": 1
+    }
+  },
+  "users": {
+    "5808853278": {
+      "date": "2026-11-08",
+      "ids": [
+        "199426"
+      ]
+    }
+  }
+}
